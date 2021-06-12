@@ -1,5 +1,5 @@
 # wdev-site
-
+Site desenvolvido no canal WDEV em um de seus vídeos no youtube. Segue o código para consulta do conteúdos com Vue.js
 ## Project setup
 ```
 npm install
